@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @drrav31
+- 👋 Hi, I’m Ravitej
 - 👀 I’m interested in Full Stack web development, Blockchain development and UI/UX Design.
 - 🌱 I’m currently learning MERN Stack, Solidity, AssemblyScript
 - 💞️ I’m looking to collaborate on Decentralized App(D-App) Development on any public blockchain. Preferably on Near or Ethereum.
